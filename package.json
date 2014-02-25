@@ -4,6 +4,7 @@
   "scripts": {
 		"start": "node index"
 	},
+	"license": "MIT",
 	"dependencies": {
 		"uglify-js": "*",
 		"recess": "*",
